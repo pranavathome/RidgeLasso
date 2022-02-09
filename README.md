@@ -4,7 +4,6 @@ Implementation of Ridge and Lasso
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -38,11 +37,11 @@ find the dataset in the git project referred with train.csb
 Give credit here.
 - This project was inspired by...
 - References if any...
-•	http://www.sthda.com/english/articles/38-regression-model-validation/158-regression-model-accuracy-metrics-r-square-aic-bic-cp-and-more/
-•	https://www.statsmodels.org/
-•	https://waterprogramming.wordpress.com/2017/02/22/dealing-with-multicollinearity-a-brief-overview-and-introduction-to-tolerant-methods/#:~:text=Lasso%20Regression,as%20a%20measure%20of%20complexity.
-•	https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Ridge_Regression.pdf
-•	https://stats.stackexchange.com/questions/104779/why-does-ridge-regression-work-well-in-the-presence-of-multicollinearity
+-•	http://www.sthda.com/english/articles/38-regression-model-validation/158-regression-model-accuracy-metrics-r-square-aic-bic-cp-and-more/
+-•	https://www.statsmodels.org/
+-•	https://waterprogramming.wordpress.com/2017/02/22/dealing-with-multicollinearity-a-brief-overview-and-introduction-to-tolerant-methods/#:~:text=Lasso%20Regression,as%20a%20measure%20of%20complexity.
+-•	https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Ridge_Regression.pdf
+-•	https://stats.stackexchange.com/questions/104779/why-does-ridge-regression-work-well-in-the-presence-of-multicollinearity
 
 
 ## Contact
